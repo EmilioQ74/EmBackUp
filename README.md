@@ -76,12 +76,6 @@ Configuration files should be placed in the `config/` directory. See the configu
 go build -o embackup
 ```
 
-### Running Tests
-
-```bash
-go test ./...
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
